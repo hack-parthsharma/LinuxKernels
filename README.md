@@ -59,3 +59,5 @@ $ ./get_kernels.py
 ## Contributing
 
 Pull requests are welcome. Feel free to open an issue if you want to add other features.
+You can change what ever you want in this repo
+
